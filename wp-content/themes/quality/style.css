@@ -821,7 +821,7 @@ hr.divider { border-top: none; width: 70px; height: 2px; margin: 15px auto 21px;
 /* 12.0 FUNFACT SECTION
 /*===================================================================================*/
 
-.funfact { background: url("http://mon-site-vitrine-wp.github.io/wp-content/themes/quality/images/funfact-bg.jpg") 50% 0 fixed; }
+.funfact { background: url("http://https://mennecartquentin.github.io/Mon-site-wordpress/wp-content/themes/quality/images/funfact-bg.jpg") 50% 0 fixed; }
 
 .funfact .overlay { padding: 100px 0 50px; }
 .funfact-inner { cursor: pointer; margin: 0 0 42px; transition: 0.3s; }
@@ -1708,7 +1708,7 @@ legend {
 }
 @media (min-width: 1200px){
     .testimonial.left-right-half {
-        background: url("http://mon-site-vitrine-wp.github.io/wp-content/themes/quality/images/bg-left.png") left center/280px no-repeat scroll, url("http://mon-site-vitrine-wp.github.io/wp-content/themes/quality/images/bg-right.png") right center/280px no-repeat scroll;
+        background: url("http://https://mennecartquentin.github.io/Mon-site-wordpress/wp-content/themes/quality/images/bg-left.png") left center/280px no-repeat scroll, url("http://https://mennecartquentin.github.io/Mon-site-wordpress/wp-content/themes/quality/images/bg-right.png") right center/280px no-repeat scroll;
         background-color: #f5f6f9;
     }
 }
@@ -2158,7 +2158,7 @@ legend {
     position: absolute;
     left: 50%;
     top: 50%;
-    background-image: url(http://mon-site-vitrine-wp.github.io/wp-content/themes/quality/images/loading.gif);
+    background-image: url(http://https://mennecartquentin.github.io/Mon-site-wordpress/wp-content/themes/quality/images/loading.gif);
     background-repeat: no-repeat;
     background-position: center;
     margin: -100px 0 0 -100px;

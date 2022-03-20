@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cuba &#8211; Vers l&#039;infini et au delà</title>
-	<atom:link href="http://mon-site-vitrine-wp.github.io/travel-locations/cuba/feed/" rel="self" type="application/rss+xml" />
-	<link>http://mon-site-vitrine-wp.github.io</link>
+	<atom:link href="http://https://mennecartquentin.github.io/Mon-site-wordpress/travel-locations/cuba/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://mennecartquentin.github.io/Mon-site-wordpress</link>
 	<description>Voyager plus vite, voyager plus loin !</description>
 	<lastBuildDate>Fri, 18 Mar 2022 08:38:10 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,17 +21,17 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Cuba</title>
-		<link>http://mon-site-vitrine-wp.github.io/destination/cuba/</link>
-					<comments>http://mon-site-vitrine-wp.github.io/destination/cuba/#respond</comments>
+		<link>http://https://mennecartquentin.github.io/Mon-site-wordpress/destination/cuba/</link>
+					<comments>http://https://mennecartquentin.github.io/Mon-site-wordpress/destination/cuba/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Mar 2022 08:26:13 +0000</pubDate>
-				<guid isPermaLink="false">http://mon-site-vitrine-wp.github.io/?post_type=itineraries&#038;p=123</guid>
+				<guid isPermaLink="false">http://https://mennecartquentin.github.io/Mon-site-wordpress/?post_type=itineraries&#038;p=123</guid>
 
 					<description><![CDATA[Baignée dans la mer des Caraïbes, Cuba se veut l’île la plus grande des Antilles. Son charme est puisé tant dans ses paysages splendides, que dans son climat tropical et la jovialité de son peuple. Si un voyage à ce pays vous tente, cette fiche descriptive saura vous éclairer davantage sur les caractéristiques de ce petit coin paradisiaque.]]></description>
 										<content:encoded><![CDATA[Baignée dans la mer des Caraïbes, Cuba se veut l’île la plus grande des Antilles. Son charme est puisé tant dans ses paysages splendides, que dans son climat tropical et la jovialité de son peuple. Si un voyage à ce pays vous tente, cette fiche descriptive saura vous éclairer davantage sur les caractéristiques de ce petit coin paradisiaque.]]></content:encoded>
 					
-					<wfw:commentRss>http://mon-site-vitrine-wp.github.io/destination/cuba/feed/</wfw:commentRss>
+					<wfw:commentRss>http://https://mennecartquentin.github.io/Mon-site-wordpress/destination/cuba/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
