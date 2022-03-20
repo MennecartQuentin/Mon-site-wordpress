@@ -109,7 +109,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/mon-site-vitrine\/wp-admin\/admin-ajax.p
 <script type="text/javascript" src="https://mennecartquentin.github.io/Mon-site-wordpress/wp-includes/js/wp-util.min.js?ver=5.9.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"7c616713c1"};
+var userProfileL10n = {"user_id":"0","nonce":"8b35dae5cb"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
