@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Londres &#8211; Vers l&#039;infini et au delà</title>
-	<atom:link href="/travel-locations/londres/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://mon-site-vitrine-wp.github.io/travel-locations/londres/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mon-site-vitrine-wp.github.io</link>
 	<description>Voyager plus vite, voyager plus loin !</description>
 	<lastBuildDate>Fri, 18 Mar 2022 08:36:01 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,17 +21,17 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Londres</title>
-		<link>/destination/londres/</link>
-					<comments>/destination/londres/#respond</comments>
+		<link>http://mon-site-vitrine-wp.github.io/destination/londres/</link>
+					<comments>http://mon-site-vitrine-wp.github.io/destination/londres/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Mar 2022 08:29:14 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=itineraries&#038;p=127</guid>
+				<guid isPermaLink="false">http://mon-site-vitrine-wp.github.io/?post_type=itineraries&#038;p=127</guid>
 
 					<description><![CDATA[Londres est connue pour être l’une des plus belle ville du monde, mais aussi l’une des plus diversifiée en terme de culture avec 50 nationalités parlant plus de 300 langues différentes.]]></description>
 										<content:encoded><![CDATA[Londres est connue pour être l’une des plus belle ville du monde, mais aussi l’une des plus diversifiée en terme de culture avec 50 nationalités parlant plus de 300 langues différentes.]]></content:encoded>
 					
-					<wfw:commentRss>/destination/londres/feed/</wfw:commentRss>
+					<wfw:commentRss>http://mon-site-vitrine-wp.github.io/destination/londres/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

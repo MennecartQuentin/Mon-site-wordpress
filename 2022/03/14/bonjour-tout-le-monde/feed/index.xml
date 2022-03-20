@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Bonjour tout le monde !	</title>
-	<atom:link href="/2022/03/14/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
-	<link>/2022/03/14/bonjour-tout-le-monde/</link>
+	<atom:link href="http://mon-site-vitrine-wp.github.io/2022/03/14/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mon-site-vitrine-wp.github.io/2022/03/14/bonjour-tout-le-monde/</link>
 	<description>Voyager plus vite, voyager plus loin !</description>
 	<lastBuildDate>Mon, 14 Mar 2022 10:16:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: Un commentateur WordPress		</title>
-		<link>/2022/03/14/bonjour-tout-le-monde/#comment-1</link>
+		<link>http://mon-site-vitrine-wp.github.io/2022/03/14/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur WordPress]]></dc:creator>
 		<pubDate>Mon, 14 Mar 2022 10:16:55 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://mon-site-vitrine-wp.github.io/?p=1#comment-1</guid>
 
 					<description><![CDATA[Bonjour, ceci est un commentaire.
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.

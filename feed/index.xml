@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Vers l&#039;infini et au delà</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://mon-site-vitrine-wp.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mon-site-vitrine-wp.github.io</link>
 	<description>Voyager plus vite, voyager plus loin !</description>
 	<lastBuildDate>Mon, 14 Mar 2022 10:16:55 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Bonjour tout le monde !</title>
-		<link>/2022/03/14/bonjour-tout-le-monde/</link>
-					<comments>/2022/03/14/bonjour-tout-le-monde/#comments</comments>
+		<link>http://mon-site-vitrine-wp.github.io/2022/03/14/bonjour-tout-le-monde/</link>
+					<comments>http://mon-site-vitrine-wp.github.io/2022/03/14/bonjour-tout-le-monde/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 14 Mar 2022 10:16:55 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://mon-site-vitrine-wp.github.io/?p=1</guid>
 
 					<description><![CDATA[Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !]]></description>
 										<content:encoded><![CDATA[
 <p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/03/14/bonjour-tout-le-monde/feed/</wfw:commentRss>
+					<wfw:commentRss>http://mon-site-vitrine-wp.github.io/2022/03/14/bonjour-tout-le-monde/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

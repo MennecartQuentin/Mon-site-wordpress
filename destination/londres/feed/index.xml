@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Londres	</title>
-	<atom:link href="/destination/londres/feed/" rel="self" type="application/rss+xml" />
-	<link>/destination/londres/</link>
+	<atom:link href="http://mon-site-vitrine-wp.github.io/destination/londres/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mon-site-vitrine-wp.github.io/destination/londres/</link>
 	<description>Voyager plus vite, voyager plus loin !</description>
 	<lastBuildDate>Fri, 18 Mar 2022 08:36:01 +0000</lastBuildDate>
 	<sy:updatePeriod>

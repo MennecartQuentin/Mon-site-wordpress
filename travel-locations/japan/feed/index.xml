@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Japon &#8211; Vers l&#039;infini et au delà</title>
-	<atom:link href="/travel-locations/japan/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://mon-site-vitrine-wp.github.io/travel-locations/japan/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mon-site-vitrine-wp.github.io</link>
 	<description>Voyager plus vite, voyager plus loin !</description>
 	<lastBuildDate>Fri, 18 Mar 2022 08:52:15 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,17 +21,17 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Japon</title>
-		<link>/destination/japon/</link>
-					<comments>/destination/japon/#respond</comments>
+		<link>http://mon-site-vitrine-wp.github.io/destination/japon/</link>
+					<comments>http://mon-site-vitrine-wp.github.io/destination/japon/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Mar 2022 08:41:49 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=itineraries&#038;p=121</guid>
+				<guid isPermaLink="false">http://mon-site-vitrine-wp.github.io/?post_type=itineraries&#038;p=121</guid>
 
 					<description><![CDATA[Le pays du soleil levant, c'est le nom que l'on donne au Japon. Venez vous aussi découvrir ce magnifique pays qu'est le Japon. ]]></description>
 										<content:encoded><![CDATA[Le pays du soleil levant, c'est le nom que l'on donne au Japon. Venez vous aussi découvrir ce magnifique pays qu'est le Japon. ]]></content:encoded>
 					
-					<wfw:commentRss>/destination/japon/feed/</wfw:commentRss>
+					<wfw:commentRss>http://mon-site-vitrine-wp.github.io/destination/japon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
