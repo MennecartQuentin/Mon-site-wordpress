@@ -38,13 +38,13 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="https://mennecartquentin.github.io/Mon-site-wordpress/wp-admin/customize.php">
+									<input type="hidden" name="redirect_to" value="https://mennecartquentin.github.io/Mon-site-wordpress/wp-admin/">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
 
 					<p id="nav">
-								<a href="https://mennecartquentin.github.io/Mon-site-wordpress/mon-espace/lost-password/">Lost your password?</a>
+				<a href="https://mennecartquentin.github.io/Mon-site-wordpress/wp-login.php?action=register">Register</a> | 				<a href="https://mennecartquentin.github.io/Mon-site-wordpress/mon-espace/lost-password/">Lost your password?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -65,7 +65,6 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 <option value="en_GB" lang="en" selected data-installed="1">English (UK)</option>
 <option value="fr_FR" lang="fr" data-installed="1">Français</option></select>
 					
-											<input type="hidden" name="redirect_to" value="https://mennecartquentin.github.io/Mon-site-wordpress/wp-admin/customize.php">
 					
 					
 						<input type="submit" class="button" value="Change">
@@ -109,7 +108,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/mon-site-vitrine\/wp-admin\/admin-ajax.p
 <script type="text/javascript" src="https://mennecartquentin.github.io/Mon-site-wordpress/wp-includes/js/wp-util.min.js?ver=5.9.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"8b35dae5cb"};
+var userProfileL10n = {"user_id":"0","nonce":"74b8780a69"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
