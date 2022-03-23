@@ -30,10 +30,7 @@
 		<guid isPermaLink="false">https://mennecartquentin.github.io/Mon-site-wordpress/?p=1</guid>
 
 					<description><![CDATA[Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !]]></description>
-										<content:encoded><![CDATA[
-<p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://mennecartquentin.github.io/Mon-site-wordpress/2022/03/14/bonjour-tout-le-monde/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
