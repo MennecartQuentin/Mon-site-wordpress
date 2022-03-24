@@ -20,7 +20,7 @@
 		<div id="login">
 		<h1><a href="https://en-gb.wordpress.org/">Powered by WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="https://mennecartquentin.github.io/Mon-site-wordpress/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="https://mennecartquentin.github.io/Mon-site-wordpress/wp-login.php" method="get">
 			<p>
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off">
@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-				<a href="https://mennecartquentin.github.io/Mon-site-wordpress/wp-login.php?action=register">Register</a> | 				<a href="https://mennecartquentin.github.io/Mon-site-wordpress/mon-espace/lost-password/">Lost your password?</a>
+				<a href="https://mennecartquentin.github.io/Mon-site-wordpress/wp-login.php?action=register">login</a> | 				<a href="https://mennecartquentin.github.io/Mon-site-wordpress/mon-espace/lost-password/">Lost your password?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
