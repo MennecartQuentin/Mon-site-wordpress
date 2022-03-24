@@ -20,7 +20,7 @@
 		<div id="login">
 		<h1><a href="https://en-gb.wordpress.org/">Powered by WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="https://mennecartquentin.github.io/Mon-site-wordpress/wp-login.php" method="get">
+		<form name="loginform" id="loginform" action="https://mennecartquentin.github.io/Mon-site-wordpress/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off">
