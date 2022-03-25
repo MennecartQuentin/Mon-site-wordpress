@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Trips &#8211; Vers l&#039;infini et au delà</title>
-	<atom:link href="https://github.com/MennecartQuentin/monSiteWordpress/destination/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/MennecartQuentin/monSiteWordpress</link>
+	<atom:link href="https://mennecartquentin.github.io/Mon-site-wordpress/destination/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mennecartquentin.github.io/Mon-site-wordpress</link>
 	<description>Voyager plus vite, voyager plus loin !</description>
 	<lastBuildDate>Fri, 18 Mar 2022 08:52:15 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,48 +21,48 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Japon</title>
-		<link>https://github.com/MennecartQuentin/monSiteWordpress/destination/japon/</link>
-					<comments>https://github.com/MennecartQuentin/monSiteWordpress/destination/japon/#respond</comments>
+		<link>https://mennecartquentin.github.io/Mon-site-wordpress/destination/japon/</link>
+					<comments>https://mennecartquentin.github.io/Mon-site-wordpress/destination/japon/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Mar 2022 08:41:49 +0000</pubDate>
-				<guid isPermaLink="false">https://github.com/MennecartQuentin/monSiteWordpress/?post_type=itineraries&#038;p=121</guid>
+				<guid isPermaLink="false">https://mennecartquentin.github.io/Mon-site-wordpress/?post_type=itineraries&#038;p=121</guid>
 
 					<description><![CDATA[Le pays du soleil levant, c'est le nom que l'on donne au Japon. Venez vous aussi découvrir ce magnifique pays qu'est le Japon. ]]></description>
 		
-					<wfw:commentRss>https://github.com/MennecartQuentin/monSiteWordpress/destination/japon/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mennecartquentin.github.io/Mon-site-wordpress/destination/japon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Londres</title>
-		<link>https://github.com/MennecartQuentin/monSiteWordpress/destination/londres/</link>
-					<comments>https://github.com/MennecartQuentin/monSiteWordpress/destination/londres/#respond</comments>
+		<link>https://mennecartquentin.github.io/Mon-site-wordpress/destination/londres/</link>
+					<comments>https://mennecartquentin.github.io/Mon-site-wordpress/destination/londres/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Mar 2022 08:29:14 +0000</pubDate>
-				<guid isPermaLink="false">https://github.com/MennecartQuentin/monSiteWordpress/?post_type=itineraries&#038;p=127</guid>
+				<guid isPermaLink="false">https://mennecartquentin.github.io/Mon-site-wordpress/?post_type=itineraries&#038;p=127</guid>
 
 					<description><![CDATA[Londres est connue pour être l’une des plus belle ville du monde, mais aussi l’une des plus diversifiée en terme de culture avec 50 nationalités parlant plus de 300 langues différentes.]]></description>
 		
-					<wfw:commentRss>https://github.com/MennecartQuentin/monSiteWordpress/destination/londres/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mennecartquentin.github.io/Mon-site-wordpress/destination/londres/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cuba</title>
-		<link>https://github.com/MennecartQuentin/monSiteWordpress/destination/cuba/</link>
-					<comments>https://github.com/MennecartQuentin/monSiteWordpress/destination/cuba/#respond</comments>
+		<link>https://mennecartquentin.github.io/Mon-site-wordpress/destination/cuba/</link>
+					<comments>https://mennecartquentin.github.io/Mon-site-wordpress/destination/cuba/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Mar 2022 08:26:13 +0000</pubDate>
-				<guid isPermaLink="false">https://github.com/MennecartQuentin/monSiteWordpress/?post_type=itineraries&#038;p=123</guid>
+				<guid isPermaLink="false">https://mennecartquentin.github.io/Mon-site-wordpress/?post_type=itineraries&#038;p=123</guid>
 
 					<description><![CDATA[Baignée dans la mer des Caraïbes, Cuba se veut l’île la plus grande des Antilles. Son charme est puisé tant dans ses paysages splendides, que dans son climat tropical et la jovialité de son peuple. Si un voyage à ce pays vous tente, cette fiche descriptive saura vous éclairer davantage sur les caractéristiques de ce petit coin paradisiaque.]]></description>
 		
-					<wfw:commentRss>https://github.com/MennecartQuentin/monSiteWordpress/destination/cuba/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mennecartquentin.github.io/Mon-site-wordpress/destination/cuba/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

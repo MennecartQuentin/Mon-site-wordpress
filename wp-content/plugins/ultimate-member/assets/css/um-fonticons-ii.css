@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "Ionicons";
-  src:url("https://github.com/MennecartQuentin/monSiteWordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.eot?v=2.0.0");
-  src:url("https://github.com/MennecartQuentin/monSiteWordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"),
-    url("https://github.com/MennecartQuentin/monSiteWordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.woff?v=2.0.0") format("woff"),
-    url("https://github.com/MennecartQuentin/monSiteWordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.ttf?v=2.0.0") format("truetype"),
-    url("https://github.com/MennecartQuentin/monSiteWordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.svg?v=2.0.0#Ionicons") format("svg");
+  src:url("https://mennecartquentin.github.io/Mon-site-wordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.eot?v=2.0.0");
+  src:url("https://mennecartquentin.github.io/Mon-site-wordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"),
+    url("https://mennecartquentin.github.io/Mon-site-wordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.woff?v=2.0.0") format("woff"),
+    url("https://mennecartquentin.github.io/Mon-site-wordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.ttf?v=2.0.0") format("truetype"),
+    url("https://mennecartquentin.github.io/Mon-site-wordpress/wp-content/plugins/ultimate-member/assets/font/ionicons.svg?v=2.0.0#Ionicons") format("svg");
 	font-display: swap;
   font-weight: normal;
   font-style: normal;

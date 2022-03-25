@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Vers l&#039;infini et au delà</title>
-	<atom:link href="https://github.com/MennecartQuentin/monSiteWordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/MennecartQuentin/monSiteWordpress</link>
+	<atom:link href="https://mennecartquentin.github.io/Mon-site-wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mennecartquentin.github.io/Mon-site-wordpress</link>
 	<description>Voyager plus vite, voyager plus loin !</description>
 	<lastBuildDate>Mon, 14 Mar 2022 10:16:55 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,17 +21,17 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>Bonjour tout le monde !</title>
-		<link>https://github.com/MennecartQuentin/monSiteWordpress/2022/03/14/bonjour-tout-le-monde/</link>
-					<comments>https://github.com/MennecartQuentin/monSiteWordpress/2022/03/14/bonjour-tout-le-monde/#comments</comments>
+		<link>https://mennecartquentin.github.io/Mon-site-wordpress/2022/03/14/bonjour-tout-le-monde/</link>
+					<comments>https://mennecartquentin.github.io/Mon-site-wordpress/2022/03/14/bonjour-tout-le-monde/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 14 Mar 2022 10:16:55 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<guid isPermaLink="false">https://github.com/MennecartQuentin/monSiteWordpress/?p=1</guid>
+		<guid isPermaLink="false">https://mennecartquentin.github.io/Mon-site-wordpress/?p=1</guid>
 
 					<description><![CDATA[Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !]]></description>
 		
-					<wfw:commentRss>https://github.com/MennecartQuentin/monSiteWordpress/2022/03/14/bonjour-tout-le-monde/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mennecartquentin.github.io/Mon-site-wordpress/2022/03/14/bonjour-tout-le-monde/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
